@@ -1,2 +1,7 @@
+2023. 03. 07. - Frissítési napló
+Hozzáadva: 
 + Frissítési napló
-+ Kisebb javítások
+
+Egyebek:
++ Új frissítési értesítő
+
