@@ -1,3 +1,6 @@
+2023. 03. 07. - Fordítás frissítés (EarlyAccess.32498 Rev.2)
+ + Javítva néhány elírás
+
 2023. 03. 07. - Frissítési napló (V0.1.1.0)
 Hozzáadva: 
 + Frissítési napló
