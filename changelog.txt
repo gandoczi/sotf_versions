@@ -1,1 +1,2 @@
-Első verzió kiadás
++ Frissítési napló
++ Kisebb javítások
