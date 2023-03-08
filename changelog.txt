@@ -1,3 +1,6 @@
+2023. 03. 08. Fordítás frissítés (EarlyAccess,32498 Rev.3)
+ + Helyesírási hibák, illetve elírások javítása (Köszi a visszajelzést Warg és FEARka!)
+
 2023. 03. 08. - Frissítési napló (V0.1.2.1)
  + Hibajavítások
 
